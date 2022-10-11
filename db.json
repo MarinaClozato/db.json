@@ -1,5 +1,5 @@
 {
-  "Genders": [
+  "Genre": [
     {
       "id": "1111",
       "name": "Rock"
@@ -19,14 +19,14 @@
       "nome" : "A Kind Of Magic",
       "duracao" : "4:23",
       "artista" : "Queen",
-      "genderID" : "1111"
+      "genreID" : "1111"
     },
     {
       "id" : "2",
       "nome" : "Livin' On A Prayer",
       "duracao" : "4:09",
       "artista" : "Bon Jovi",
-      "genderID" : "1111"
+      "genreID" : "1111"
     },
 
     {
@@ -34,28 +34,28 @@
       "nome" : "Metamorfose Ambulante",
       "duracao" : "3:52",
       "artista" : "Raúl Seixas",
-      "genderID" : "2222"
+      "genreID" : "2222"
     },
     {
       "id" : "4",
       "nome" : "Trem Bala",
       "duracao" : "3:00",
       "artista" : "Ana Vilela",
-      "genderID" : "2222"
+      "genreID" : "2222"
     },
     {
       "id" : "5",
       "nome" : "Lancinho",
       "duracao" : "3:36",
       "artista" : "Turma do Pagode",
-      "genderID" : "3333"
+      "genreID" : "3333"
     },
     {
       "id" : "6",
       "nome" : "Insegurança",
       "duracao" : "3:00",
       "artista" : "Pixote",
-      "genderID" : "3333"
+      "genre" : "3333"
     }
   ]
 }
