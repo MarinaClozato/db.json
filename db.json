@@ -13,7 +13,7 @@
       "name": "Pagode"
     }
   ],
-  "Rock" : [
+  "Musics" : [
     {
       "id" : "1",
       "nome" : "A Kind Of Magic",
@@ -28,97 +28,30 @@
       "artista" : "Bon Jovi",
       "genderID" : "1111"
     },
+
     {
       "id" : "3",
-      "nome" : "Let It Be",
-      "duracao" : "4:02",
-      "artista" : "Beatles",
-      "genderID" : "1111"
-
-    },
-    {
-      "id" : "4",
-      "nome" : "Another Brick in the Wall, Pt.2",
-      "duracao" : "3:57",
-      "artista" : "Pink Floyd",
-      "genderID" : "1111"
-    },
-   {
-     "id" : "5",
-      "nome" : "Highway to Hell",
-      "duracao" : "3:27",
-      "artista" : "AC/DC",
-      "genderID" : "1111"
-   }
-  ],
-
-  "MPB" : [
-    {
-      "id" : "11",
-      "nome" : "Anunciação",
-      "duracao" : "4:47",
-      "artista" : "Alceu Valença",
-      "genderID" : "2222"
-    },
-    {
-      "id" : "22",
-      "nome" : "Avôhai",
-      "duracao" : "4:56",
-      "artista" : "Zé Ramalho",
-      "genderID" : "2222"
-    },
-    {
-      "id" : "33",
       "nome" : "Metamorfose Ambulante",
       "duracao" : "3:52",
       "artista" : "Raúl Seixas",
       "genderID" : "2222"
     },
-    {"id" : "44",
+    {
+      "id" : "4",
       "nome" : "Trem Bala",
       "duracao" : "3:00",
       "artista" : "Ana Vilela",
       "genderID" : "2222"
     },
     {
-      "id" : "55",
-      "nome" : "Garota de Ipanema",
-      "duracao" : "4:03",
-      "artista" : "Tom Jobim",
-      "genderID" : "2222"
-    }
-  ]
-  "Pagode" : [
-    {
-      "id" : "111",
-      "nome" : "Tá vendo aquela lua",
-      "duracao" : "3:15",
-      "artista" : "Exaltasamba",
-      "genderID" : "3333"
-    },
-    {
-      "id" : "222",
-      "nome" : "Deixa acontecer",
-      "duracao" : "4:05",
-      "artista" : "Grupo Revelação",
-      "genderID" : "3333"
-    },
-    {
-      "id" : "333",
-      "nome" : "Essa tal liberdade",
-      "duracao" : "4:02",
-      "artista" : "Só pra contrariar",
-      "genderID" : "3333"
-    },
-    {
-      "id" : "444",
+      "id" : "5",
       "nome" : "Lancinho",
       "duracao" : "3:36",
       "artista" : "Turma do Pagode",
       "genderID" : "3333"
     },
     {
-      "id" : "555",
+      "id" : "6",
       "nome" : "Insegurança",
       "duracao" : "3:00",
       "artista" : "Pixote",
