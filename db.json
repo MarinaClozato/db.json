@@ -1,4 +1,18 @@
 {
+  "Genders": [
+    {
+      "id": "1111",
+      "name": "Rock"
+    },
+    {
+      "id": "2222",
+      "name": "MPB"
+    },
+    {
+      "id": "3333",
+      "name": "Pagode"
+    }
+  ],
   "Rock" : [
     {
       "id" : "1",
@@ -62,6 +76,38 @@
       "nome" : "Garota de Ipanema",
       "duracao" : "4:03",
       "artista" : "Tom Jobim"
+    }
+  ]
+  "Pagode" : [
+    {
+      "id" : "111",
+      "nome" : "Tá vendo aquela lua",
+      "duracao" : "3:15",
+      "artista" : "Exaltasamba"
+    },
+    {
+      "id" : "222",
+      "nome" : "Deixa acontecer",
+      "duracao" : "4:05,
+      "artista" : "Grupo Revelação"
+    },
+    {
+      "id" : "333",
+      "nome" : "Essa tal liberdade",
+      "duracao" : "4:02",
+      "artista" : "Só pra contrariar"
+    },
+    {
+      "id" : "444",
+      "nome" : "Lancinho",
+      "duracao" : "3:36",
+      "artista" : "Turma do Pagode"
+    },
+    {
+      "id" : "555",
+      "nome" : "Insegurança",
+      "duracao" : "3:00",
+      "artista" : "Pixote"
     }
   ]
 }
